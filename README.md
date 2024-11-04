@@ -1,0 +1,1 @@
+A simple and efficient currency converter application that allows users to convert amounts between various currencies in real-time. This project supports multiple currencies and provides accurate conversion rates based on the latest exchange data from reliable financial APIs.
